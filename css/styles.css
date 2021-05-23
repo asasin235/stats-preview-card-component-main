@@ -1,0 +1,51 @@
+body{
+  background-color: hsl(233, 47%, 7%);
+  width: 1440px;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+h1{
+  color: hsl(0, 0%, 100%);
+  font-family: 'Lexend Deca', sans-serif;
+}
+h2{
+  color:hsla(0, 0%, 100%, 0.6);
+  font-family: 'Lexend Deca', sans-serif;
+}
+p{
+  color:hsla(0, 0%, 100%, 0.75);
+  font-family: 'Inter', sans-serif;
+}
+.inner-card{
+
+  text-align: left;
+display: flex;
+flex-direction: column;
+
+  margin-left: 15%;
+  margin-right: 15%;
+
+}
+.numbers{
+  margin: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+.image-card{
+
+  margin-right: 20px;
+}
+.insights{
+  color:hsl(277, 64%, 61%);
+}
+.main-card{
+  display: flex;
+  background-color: hsl(244, 38%, 16%);
+  justify-content:center;
+
+
+  width:80%;
+
+}
